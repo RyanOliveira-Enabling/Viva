@@ -41,7 +41,7 @@ Admins can enable this integration by taking the following steps:
 
    :::image type="content" source="../media/goals/6/azure-devops-enable-button.png" alt-text="Enabling Azure DevOps in Viva Goals." lightbox="../media/goals/6/azure-devops-enable-button.png":::
 
-- This integration can also be **disabled** from the same section by clicking on **Change**, and choosing**Disable integration** from the dropdown.
+- This integration can also be **disabled** from the same section by clicking on **Change**, and choosing **Disable integration** from the dropdown.
 
   :::image type="content" source="../media/goals/6/azure-devops-disable-button.png" alt-text="Disabling Azure DevOps in Viva Goals." lightbox="../media/goals/6/azure-devops-disable-button.png":::
 
